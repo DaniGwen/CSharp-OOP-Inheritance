@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\CSharp Inheritance\bin\Debug\netcoreapp2.0\CSharp Inheritance.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\CSharp Inheritance\bin\Debug\netcoreapp2.0\CSharp Inheritance.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\CSharp Inheritance\bin\Debug\netcoreapp2.0\CSharp Inheritance.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\CSharp Inheritance\bin\Debug\netcoreapp2.0\CSharp Inheritance.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\CSharp Inheritance\bin\Debug\netcoreapp2.0\CSharp Inheritance.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\CSharp Inheritance\obj\Debug\netcoreapp2.0\CSharp Inheritance.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\CSharp Inheritance\obj\Debug\netcoreapp2.0\CSharp Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\CSharp Inheritance\obj\Debug\netcoreapp2.0\CSharp Inheritance.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\CSharp Inheritance\obj\Debug\netcoreapp2.0\CSharp Inheritance.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\CSharp Inheritance\obj\Debug\netcoreapp2.0\CSharp Inheritance.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\CSharp Inheritance\obj\Debug\netcoreapp2.0\CSharp Inheritance.pdb

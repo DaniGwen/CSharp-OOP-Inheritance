@@ -1,0 +1,11 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\5.StackofStrings\bin\Debug\netcoreapp2.0\5.StackofStrings.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\5.StackofStrings\bin\Debug\netcoreapp2.0\5.StackofStrings.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\5.StackofStrings\bin\Debug\netcoreapp2.0\5.StackofStrings.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\5.StackofStrings\bin\Debug\netcoreapp2.0\5.StackofStrings.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\5.StackofStrings\bin\Debug\netcoreapp2.0\5.StackofStrings.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\5.StackofStrings\obj\Debug\netcoreapp2.0\5.StackofStrings.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\5.StackofStrings\obj\Debug\netcoreapp2.0\5.StackofStrings.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\5.StackofStrings\obj\Debug\netcoreapp2.0\5.StackofStrings.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\5.StackofStrings\obj\Debug\netcoreapp2.0\5.StackofStrings.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\5.StackofStrings\obj\Debug\netcoreapp2.0\5.StackofStrings.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\5.StackofStrings\obj\Debug\netcoreapp2.0\5.StackofStrings.pdb

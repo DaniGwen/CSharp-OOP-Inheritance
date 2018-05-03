@@ -1,0 +1,22 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\Problem1.Person\bin\Debug\netcoreapp2.0\Problem1.Person.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\Problem1.Person\bin\Debug\netcoreapp2.0\Problem1.Person.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\Problem1.Person\bin\Debug\netcoreapp2.0\Problem1.Person.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\Problem1.Person\bin\Debug\netcoreapp2.0\Problem1.Person.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\Problem1.Person\bin\Debug\netcoreapp2.0\Problem1.Person.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\LabWork\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp Inheritance\Problem1.Person\bin\Debug\netcoreapp2.0\Problem1.Person.deps.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp Inheritance\Problem1.Person\bin\Debug\netcoreapp2.0\Problem1.Person.runtimeconfig.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp Inheritance\Problem1.Person\bin\Debug\netcoreapp2.0\Problem1.Person.runtimeconfig.dev.json
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp Inheritance\Problem1.Person\bin\Debug\netcoreapp2.0\Problem1.Person.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp Inheritance\Problem1.Person\bin\Debug\netcoreapp2.0\Problem1.Person.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp Inheritance\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp Inheritance\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp Inheritance\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp Inheritance\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.AssemblyInfo.cs
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp Inheritance\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\CSharp Inheritance\Problem1.Person\obj\Debug\netcoreapp2.0\Problem1.Person.pdb
