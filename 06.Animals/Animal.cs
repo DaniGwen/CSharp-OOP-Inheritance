@@ -11,7 +11,7 @@ namespace _06.Animals
 
 		}
 
-		public Animal(int age,string name,string gender) : base()
+		public Animal(int age,string name,string gender) : this()
 		{
 			this.Age = age;
 			this.Name = name;
